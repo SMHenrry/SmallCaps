@@ -1,9 +1,9 @@
 # Change Log
 
-All notable changes to the "small" extension will be documented in this file.
+## [0.0.1]
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+- Primer intento de funcion
 
-## [Unreleased]
+## [0.0.2]
 
-- Initial release
+- Funciona! ahora a disfrutar!

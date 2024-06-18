@@ -1,8 +1,10 @@
 {
-  "name": "small",
-  "displayName": "small-caps",
-  "description": "testing",
-  "version": "0.0.1",
+  "name": "smallcaps",
+  "displayName": "Letras Pequeñas",
+  "description": "Convierte rapidamente los textos de tus archivos .yml en letras pequeñas",
+  "icon": "images/small-caps.png",
+  "version": "0.0.2",
+  "publisher": "SMHenrry",
   "engines": {
     "vscode": "^1.90.0"
   },
@@ -15,7 +17,7 @@
     "commands": [
       {
         "command": "extension.toSmallCaps",
-        "title": "Convert to Small Caps"
+        "title": "Convierte texto en letras pequeñas"
       }
     ]
   },
